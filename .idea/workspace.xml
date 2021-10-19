@@ -33,7 +33,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -70,11 +70,19 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Second commit of Burger Order App to Git" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second commit of Burger Order App to Git" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="561" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1634664717692">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state x="561" y="118" key="#com.intellij.ide.util.MemberChooser/0.25.1440.802@0.25.1440.802" timestamp="1634664717692" />
+    <state x="448" y="25" key="CommitChangelistDialog2" timestamp="1634680258451">
+      <screen x="0" y="25" width="1440" height="804" />
+    </state>
+    <state x="448" y="25" key="CommitChangelistDialog2/0.25.1440.804@0.25.1440.804" timestamp="1634680258451" />
     <state width="1363" height="583" key="GridCell.Tab.0.bottom" timestamp="1634673000141">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
@@ -115,14 +123,19 @@
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state width="1363" height="620" key="GridCell.Tab.1.right/0.25.1440.802@0.25.1440.802" timestamp="1634659713053" />
-    <state x="236" y="25" key="SettingsEditor" timestamp="1634678634508">
-      <screen x="0" y="25" width="1440" height="802" />
+    <state x="458" y="30" key="SettingsEditor" timestamp="1634684968068">
+      <screen x="0" y="25" width="1440" height="804" />
     </state>
-    <state x="236" y="25" key="SettingsEditor/0.25.1440.802@0.25.1440.802" timestamp="1634678634508" />
+    <state x="458" y="30" key="SettingsEditor/0.25.1440.802@0.25.1440.802" timestamp="1634681083379" />
+    <state x="458" y="30" key="SettingsEditor/0.25.1440.804@0.25.1440.804" timestamp="1634684968068" />
     <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1634678316803">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.802@0.25.1440.802" timestamp="1634678316803" />
+    <state x="554" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1634680564149">
+      <screen x="0" y="25" width="1440" height="802" />
+    </state>
+    <state x="554" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.802@0.25.1440.802" timestamp="1634680564149" />
     <state x="592" y="193" key="refactoring.ChangeSignatureDialog" timestamp="1634616213511">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
