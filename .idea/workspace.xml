@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed82a71-2bd6-4b3a-8e63-bb0f65c8f850" name="Default Changelist" comment="" />
+    <list default="true" id="3ed82a71-2bd6-4b3a-8e63-bb0f65c8f850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uTHyLSvhAiV5cNZH1HcYgRGL61" />
   <component name="ProjectViewState">
@@ -28,7 +33,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
@@ -110,14 +115,14 @@
       <screen x="0" y="25" width="1440" height="802" />
     </state>
     <state width="1363" height="620" key="GridCell.Tab.1.right/0.25.1440.802@0.25.1440.802" timestamp="1634659713053" />
-    <state x="236" y="25" key="SettingsEditor" timestamp="1634678040820">
+    <state x="236" y="25" key="SettingsEditor" timestamp="1634678634508">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state x="236" y="25" key="SettingsEditor/0.25.1440.802@0.25.1440.802" timestamp="1634678040820" />
-    <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1634677855336">
+    <state x="236" y="25" key="SettingsEditor/0.25.1440.802@0.25.1440.802" timestamp="1634678634508" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1634678316803">
       <screen x="0" y="25" width="1440" height="802" />
     </state>
-    <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.802@0.25.1440.802" timestamp="1634677855336" />
+    <state x="0" y="0" width="1440" height="900" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1440.802@0.25.1440.802" timestamp="1634678316803" />
     <state x="592" y="193" key="refactoring.ChangeSignatureDialog" timestamp="1634616213511">
       <screen x="0" y="25" width="1440" height="804" />
     </state>
