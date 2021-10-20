@@ -209,10 +209,6 @@ public class Main {
         Thread.sleep(1000);
         System.out.print(".");
         Thread.sleep(1000);
-        System.out.print(".");
-        Thread.sleep(1000);
-        System.out.print(".");
-        Thread.sleep(1000);
         burger.checkOut();
         return true;
     }
