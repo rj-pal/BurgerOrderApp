@@ -122,7 +122,7 @@ public class Burger {
     }
 
     /*
-    This method sets the number of add-ons to customer's preference if they select Yes in Order Method.
+    This method sets the number of add-ons to customer's preference if they select 'Yes' in Order Method.
     Field addons remains at -1 otherwise. -1 means no add-on toppings selected by the user, or Deluxe Burger child.
      */
     public void AddOns(int addOns) { // overridden in both Healthy and Deluxe Burger classes.

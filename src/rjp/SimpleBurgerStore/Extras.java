@@ -59,8 +59,8 @@ public class Extras {
     }
 
     /*
-    Overloaded method to valid if each topping entered by customer matches with a topping on the list. It uses
-    Arrays.asList in order to use the contains method rather than use a for loop to valid a match or return a null.
+    Overloaded method to validate if each topping entered by customer matches with a topping on the list. It uses
+    Arrays.asList to use the Arrays.contains() method rather than use a for loop to valid a match or return a null.
      */
 
     public String getTopping1() {

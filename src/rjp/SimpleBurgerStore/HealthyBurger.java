@@ -7,7 +7,7 @@ public class HealthyBurger extends Burger {
         this.salad = true;
     }
 
-    @ Override // allows for an extra two toppings to be selected in this class only.
+    @ Override // allows for an extra two toppings to be selected in this child class only.
     public void AddOns(int addOns) {
         if (addOns == 5) {
             this.addOns = 5;

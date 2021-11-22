@@ -170,7 +170,7 @@ public class Main {
         }
 
         if (burger instanceof DeluxeBurger) {
-            assert true; // just to skip through since Deluxe Burger is already a combo.
+            assert true; // just pass through to checkout since Deluxe Burger is already a combo.
         } else {
             burger.myBurger();
 
@@ -191,7 +191,7 @@ public class Main {
         burger.myBurger(); // display order summary
         System.out.print("\nIt is ready for checkout. Saying No will cancel your order. ");
 
-        while (true) {
+        while (true) { // responding no will terminate the program with no errors.
             System.out.println("Are you sure you want to checkout? Y or N?");
             String selection = scanner.nextLine();
             if (selection.toLowerCase().equals("y") || selection.toLowerCase().equals("yes")) {
